@@ -1,0 +1,23 @@
+<bookstore>
+<books category="technical">
+<book_no>1</book_no>
+<book_name>Atomic habits</book_name>
+<author_name>James clear</author_name>
+<price>200</price>
+<year>1990</year>
+</books>
+<books category="Cooking">
+<book_no>2</book_no>
+<book_name>Khana Khajana</book_name>
+<author_name>Madhura</author_name>
+<price>150</price>
+<year>2000</year>
+</books>
+<books category="YOGA">
+<book_no>3</book_no>
+<book_name>Healthy habits</book_name>
+<author_name>James root</author_name>
+<price>250</price>
+<year>2010</year>
+</books>
+</bookstore>

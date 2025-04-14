@@ -1,0 +1,27 @@
+<Course>
+<ComputerScience>
+<Studentname>Ramu</Studentname>
+<Classname>TYBSC CS</Classname>
+<percentage>100</percentage>
+</ComputerScience>
+<ComputerScience>
+<Studentname>Yash</Studentname>
+<Classname>TYBSC CS</Classname>
+<percentage>100</percentage>
+</ComputerScience>
+<ComputerScience>
+<Studentname>Shree</Studentname>
+<Classname>TYBSC CS</Classname>
+<percentage>100</percentage>
+</ComputerScience>
+<ComputerScience>
+<Studentname>Mavshi</Studentname>
+<Classname>TYBSC CS</Classname>
+<percentage>99</percentage>
+</ComputerScience>
+<ComputerScience>
+<Studentname>Mama</Studentname>
+<Classname>TYBSC CS</Classname>
+<percentage>99</percentage>
+</ComputerScience>
+</Course>
